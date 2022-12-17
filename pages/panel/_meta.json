@@ -1,0 +1,26 @@
+{
+    "getting-started": {
+        "title": "Getting Started",
+        "theme": {
+            "footer": false
+        }
+    },
+    "webserver-configuration": {
+        "title": "Webserver Configuration",
+        "theme": {
+            "footer": false
+        }
+    },
+    "additional-configuration": {
+        "title": "Additional Configuration",
+        "theme": {
+            "footer": false
+        }
+    },
+    "updating-the-panel": {
+        "title": "Updating the Panel",
+        "theme": {
+            "footer": false
+        }
+    }
+}
