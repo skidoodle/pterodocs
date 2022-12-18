@@ -1,0 +1,14 @@
+{
+    "using-mounts": {
+        "title": "Using Mounts",
+        "theme": {
+            "footer": false
+        }
+    },
+    "php-upgrade": {
+        "title": "Upgrading PHP",
+        "theme": {
+            "footer": false
+        }
+    }
+}
