@@ -1,0 +1,26 @@
+{
+    "installing": {
+        "title": "Installing Wings",
+        "theme": {
+            "footer": false
+        }
+    },
+    "upgrading": {
+        "title": "Upgrading Wings",
+        "theme": {
+            "footer": false
+        }
+    },
+    "migrating": {
+        "title": "Migrating to Wings",
+        "theme": {
+            "footer": false
+        }
+    },
+    "additional-configuration": {
+        "title": "Additional Configuration",
+        "theme": {
+            "footer": false
+        }
+    }
+}

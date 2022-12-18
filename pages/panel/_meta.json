@@ -22,5 +22,17 @@
         "theme": {
             "footer": false
         }
+    },
+    "troubleshooting": {
+        "title": "Troubleshooting",
+        "theme": {
+            "footer": false
+        }
+    },
+    "legacy-upgrades": {
+        "title": "Legacy Upgrades",
+        "theme": {
+            "footer": false
+        }
     }
 }

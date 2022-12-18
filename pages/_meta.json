@@ -1,20 +1,44 @@
 {
-  "index": {
-    "title": "Intoduction",
-    "theme": {
-      "footer": false
-    }
-  },
-  "about": {
-    "title": "About",
-    "theme": {
-      "footer": false
-    }
-  },
-  "panel": {
-    "title": "Panel",
-     "theme": {
-       "footer": false
-     }
-  }
+   "index":{
+      "title":"Intoduction",
+      "theme":{
+         "footer":false
+      }
+   },
+   "about":{
+      "title":"About",
+      "theme":{
+         "footer":false
+      }
+   },
+   "terminology":{
+       "title":"Terminology",
+       "theme":{
+           "footer":false
+       }
+   },
+   "community-standards":{
+       "title":"Comminity Standards",
+       "theme":{
+           "footer":false
+       }
+   },
+   "panel":{
+      "title":"Panel",
+      "theme":{
+         "footer":false
+      }
+   },
+   "wings":{
+      "title":"Wings",
+      "theme":{
+         "footer":false
+      }
+   },
+   "tutorials":{
+      "title":"Tutorials",
+      "theme":{
+         "footer":false
+      }
+   }
 }

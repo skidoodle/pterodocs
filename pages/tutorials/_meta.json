@@ -1,0 +1,14 @@
+{
+  "mysql-setup": {
+    "title": "Setting up MySQL",
+    "theme": {
+      "footer": false
+    }
+  },
+  "creating-ssl-certificates": {
+    "title": "Creating SSL Certificates",
+    "theme": {
+      "footer": false
+    }
+  }
+}
