@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com/invite/pterodactyl',
   },
-  docsRepositoryBase: 'https://github.com/skidoodle/pterodocs',
+  docsRepositoryBase: 'https://github.com/skidoodle/pterodocs/blob/main',
 };
 
 export default config;
